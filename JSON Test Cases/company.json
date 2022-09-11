@@ -1,0 +1,111 @@
+[{
+  "_id": "1000",
+  "legalName": "Morgan Helsinky",
+  "incorporationDate": {
+    "$date": {
+      "$numberLong": "948326400000"
+    }
+  },
+  "displayName": "MHelsinky",
+  "stateOfIncorporation": "San Francisco",
+  "_class": "task.taskservice.Model.Company"
+},{
+  "_id": "1001",
+  "legalName": "Drazona",
+  "incorporationDate": {
+    "$date": {
+      "$numberLong": "1003622400000"
+    }
+  },
+  "displayName": "DRZ",
+  "stateOfIncorporation": "Seattle",
+  "_class": "task.taskservice.Model.Company"
+},{
+  "_id": "1002",
+  "legalName": "Ergintile",
+  "incorporationDate": {
+    "$date": {
+      "$numberLong": "876700800000"
+    }
+  },
+  "displayName": "ERGT",
+  "stateOfIncorporation": "Los Angeles",
+  "_class": "task.taskservice.Model.Company"
+},{
+  "_id": "1003",
+  "legalName": "Caprizen",
+  "incorporationDate": {
+    "$date": {
+      "$numberLong": "631238400000"
+    }
+  },
+  "displayName": "CPRZN",
+  "stateOfIncorporation": "California",
+  "_class": "task.taskservice.Model.Company"
+},{
+  "_id": "1004",
+  "legalName": "Zenrubia",
+  "incorporationDate": {
+    "$date": {
+      "$numberLong": "545184000000"
+    }
+  },
+  "displayName": "ZNRB",
+  "stateOfIncorporation": "Las Vegas",
+  "_class": "task.taskservice.Model.Company"
+},{
+  "_id": "1005",
+  "legalName": "Zetopia",
+  "incorporationDate": {
+    "$date": {
+      "$numberLong": "260928000000"
+    }
+  },
+  "displayName": "ZTPA",
+  "stateOfIncorporation": "Florida",
+  "_class": "task.taskservice.Model.Company"
+},{
+  "_id": "1006",
+  "legalName": "Bankturp",
+  "incorporationDate": {
+    "$date": {
+      "$numberLong": "642729600000"
+    }
+  },
+  "displayName": "BTRP",
+  "stateOfIncorporation": "New Jersey",
+  "_class": "task.taskservice.Model.Company"
+},{
+  "_id": "1007",
+  "legalName": "PlayRoof",
+  "incorporationDate": {
+    "$date": {
+      "$numberLong": "345772800000"
+    }
+  },
+  "displayName": "PRF",
+  "stateOfIncorporation": "New York",
+  "_class": "task.taskservice.Model.Company"
+},{
+  "_id": "1008",
+  "legalName": "Venizia",
+  "incorporationDate": {
+    "$date": {
+      "$numberLong": "626572800000"
+    }
+  },
+  "displayName": "VNZ",
+  "stateOfIncorporation": "Texas",
+  "_class": "task.taskservice.Model.Company"
+},{
+  "_id": "1009",
+  "legalName": "XenRoof",
+  "incorporationDate": {
+    "$date": {
+      "$numberLong": "686966400000"
+    }
+  },
+  "displayName": "XRF",
+  "stateOfIncorporation": "Virginia",
+  "_class": "task.taskservice.Model.Company"
+}]
