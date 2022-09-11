@@ -59,7 +59,7 @@ Following are the steps to hit the api -
 Here, MongoDB is used as Database for storing and retrieving the details. We have created a database called as taskdb which consists of two collections company and employee. And we are using POST and GET APIs for the two collections to store and retrieve the details.
 
 
-### For the company table, the JSON test cases used for the following APIs are -
+### For the company table, the JSON test cases used for the following APIs are being passed like this-
 
 1.) POST API
 ![Screenshot (50)](https://user-images.githubusercontent.com/60281103/189514276-1ec64b6f-c2a7-4461-a43d-f39da439d222.png)
