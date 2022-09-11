@@ -1,6 +1,21 @@
 # Explanation
 
 ## How to start/stop the server?
+
+Run the main class which is ProjectServiceApplication. 
+![Screenshot (57)](https://user-images.githubusercontent.com/60281103/189529431-6dac0205-672e-4df9-942e-26d08c7bde4f.png)
+
+Then, the Tomcat Server will start running on the port 8080, if there are no compilation errors.
+![Screenshot (58)](https://user-images.githubusercontent.com/60281103/189529499-cabedd80-94c1-4bd1-9bc5-771788384800.png)
+
+In order to stop the application, click on the red button which stops the ProjectServiceApplication class.
+![Screenshot (59)](https://user-images.githubusercontent.com/60281103/189529590-352ba99c-f95f-487c-a032-f9f8143a8b0b.png)
+
+
+
+
+
+## How to hit the api using Postman?
 In this project, we are using Postman to start or stop the server. 
 Following are the steps to start/stop the server ->
 
