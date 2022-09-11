@@ -16,8 +16,9 @@ In order to stop the application, click on the red button which stops the Projec
 
 
 ## How to hit the api using Postman?
-In this project, we are using Postman to start or stop the server. 
-Following are the steps to start/stop the server ->
+In this project, we are using Postman to hit the api. 
+
+Following are the steps to start/stop the server -
 
 1.) Create a new collection in the Postman for a given MongoDB collection. Give a name to this collection accordingly.
 ![Screenshot (42)](https://user-images.githubusercontent.com/60281103/189513655-c7ae390b-965f-4851-bd63-c7d6235845e6.png)
