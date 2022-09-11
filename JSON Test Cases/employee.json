@@ -1,0 +1,193 @@
+[{
+  "_id": 2000,
+  "firstName": "Jenny",
+  "lastName": "Washington",
+  "companyID": "1000",
+  "workEmail": "jwash@mial.com",
+  "managerID": "3000",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "876873600000"
+    }
+  },
+  "taxIDNumber": 4000,
+  "employmentStatus": "INACTIVE",
+  "maritalStatus": "SINGLE",
+  "_class": "task.taskservice.Model.Employee"
+},{
+  "_id": 2001,
+  "firstName": "Amy",
+  "lastName": "Razor",
+  "companyID": "1000",
+  "workEmail": "arazor@mial.com",
+  "managerID": "3000",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "876873600000"
+    }
+  },
+  "taxIDNumber": 4000,
+  "employmentStatus": "INACTIVE",
+  "maritalStatus": "SINGLE",
+  "_class": "task.taskservice.Model.Employee"
+},{
+  "_id": 2002,
+  "firstName": "Jenny",
+  "lastName": "Jones",
+  "companyID": "1001",
+  "workEmail": "jones@mial.com",
+  "managerID": "3001",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "658368000000"
+    }
+  },
+  "taxIDNumber": 4001,
+  "employmentStatus": "ACTIVE",
+  "maritalStatus": "WIDOWED",
+  "_class": "task.taskservice.Model.Employee"
+},{
+  "_id": 2003,
+  "firstName": "James",
+  "lastName": "Loop",
+  "companyID": "1002",
+  "workEmail": "jloop@mial.com",
+  "managerID": "3002",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "678844800000"
+    }
+  },
+  "taxIDNumber": 4002,
+  "employmentStatus": "ACTIVE",
+  "maritalStatus": "DIVORCED",
+  "_class": "task.taskservice.Model.Employee"
+},{
+  "_id": 2004,
+  "firstName": "Jimmy",
+  "lastName": "Jacob",
+  "companyID": "1003",
+  "workEmail": "jjacob@mial.com",
+  "managerID": "3003",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "843264000000"
+    }
+  },
+  "taxIDNumber": 4003,
+  "employmentStatus": "ACTIVE",
+  "maritalStatus": "COMMON LAW",
+  "_class": "task.taskservice.Model.Employee"
+},{
+  "_id": 2005,
+  "firstName": "Renny",
+  "lastName": "Joseph",
+  "companyID": "1004",
+  "workEmail": "jrenny@mial.com",
+  "managerID": "3004",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "719107200000"
+    }
+  },
+  "taxIDNumber": 4004,
+  "employmentStatus": "INACTIVE",
+  "maritalStatus": "MARRIED",
+  "_class": "task.taskservice.Model.Employee"
+},{
+  "_id": 2006,
+  "firstName": "Erica",
+  "lastName": "Fernandes",
+  "companyID": "1005",
+  "workEmail": "jfernandes@mial.com",
+  "managerID": "3005",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "811900800000"
+    }
+  },
+  "taxIDNumber": 4005,
+  "employmentStatus": "INACTIVE",
+  "maritalStatus": "SINGLE",
+  "_class": "task.taskservice.Model.Employee"
+},{
+  "_id": 2007,
+  "firstName": "Fannie",
+  "lastName": "Fernandes",
+  "companyID": "1006",
+  "workEmail": "ffernandes@mial.com",
+  "managerID": "3006",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "-126921600000"
+    }
+  },
+  "taxIDNumber": 4006,
+  "employmentStatus": "ACTIVE",
+  "maritalStatus": "WIDOWED",
+  "_class": "task.taskservice.Model.Employee"
+},{
+  "_id": 2008,
+  "firstName": "Ronny",
+  "lastName": "Jacob",
+  "companyID": "1007",
+  "workEmail": "rjacob@mial.com",
+  "managerID": "3007",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "658281600000"
+    }
+  },
+  "taxIDNumber": 4007,
+  "employmentStatus": "INACTIVE",
+  "maritalStatus": "SINGLE",
+  "_class": "task.taskservice.Model.Employee"
+},{
+  "_id": 2009,
+  "firstName": "Veena",
+  "lastName": "Washington",
+  "companyID": "1008",
+  "workEmail": "vwashington@mial.com",
+  "managerID": "3008",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "842400000000"
+    }
+  },
+  "taxIDNumber": 4008,
+  "employmentStatus": "ACTIVE",
+  "maritalStatus": "COMMON LAW",
+  "_class": "task.taskservice.Model.Employee"
+},{
+  "_id": 2010,
+  "firstName": "Resina",
+  "lastName": "Jacobs",
+  "companyID": "1009",
+  "workEmail": "rjacobs@mial.com",
+  "managerID": "3009",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "776563200000"
+    }
+  },
+  "taxIDNumber": 4009,
+  "employmentStatus": "INACTIVE",
+  "maritalStatus": "DIVORCED",
+  "_class": "task.taskservice.Model.Employee"
+},{
+  "_id": 2011,
+  "firstName": "Blessie",
+  "lastName": "Varghese",
+  "companyID": "1010",
+  "workEmail": "bvarghese@mial.com",
+  "managerID": "3010",
+  "DateOfBirth": {
+    "$date": {
+      "$numberLong": "653011200000"
+    }
+  },
+  "taxIDNumber": 4010,
+  "employmentStatus": "ACTIVE",
+  "maritalStatus": "MARRIED",
+  "_class": "task.taskservice.Model.Employee"
+}]
